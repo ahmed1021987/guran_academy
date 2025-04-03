@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn Quran, Tajweed, and Ten Qira'at with our online Quran Academy.">
+    <meta name="keywords" content="Quran learning, Tajweed, Ten Qira'at, Online Quran Academy">
+    <meta name="author" content="Quran Academy Online">
+    <meta name="robots" content="index, follow">
+    <title>Quran Academy Online</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Quran Academy Online</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#courses">Courses</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+                <li><a href="index.html">«·⁄—»Ì…</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We offer online Quran learning courses including Tajweed and Ten Qira'at.</p>
+    </section>
+
+    <section id="courses">
+        <h2>Our Courses</h2>
+        <ul>
+            <li>Beginner Tajweed Course</li>
+            <li>Ten Qira'at Course</li>
+            <li>Quran Memorization Program</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email us at: <a href="mailto:info@quranacademy.com">info@quranacademy.com</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 All Rights Reserved - Quran Academy Online</p>
+    </footer>
+</body>
+</html>

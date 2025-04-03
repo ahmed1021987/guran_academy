@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Aprenda el Cor?n, Tajweed y las diez lecturas con nuestra Academia en l?nea.">
+    <meta name="keywords" content="Aprendizaje del Cor?n, Tajweed, Diez lecturas, Academia del Cor?n en l?nea">
+    <title>Academia del Cor?n en l?nea</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Academia del Cor?n en l?nea</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Sobre Nosotros</a></li>
+                <li><a href="#courses">Cursos</a></li>
+                <li><a href="#contact">Contacto</a></li>
+                <li><a href="index.html">ÇáÚÑÈíÉ</a></li>
+                <li><a href="index-en.html">English</a></li>
+                <li><a href="index-fr.html">Français</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>Sobre Nosotros</h2>
+        <p>Ofrecemos cursos en l?nea para aprender el Cor?n, Tajweed y las diez lecturas.</p>
+    </section>
+    
+    <section id="courses">
+        <h2>Nuestros Cursos</h2>
+        <ul>
+            <li>Curso de Tajweed para principiantes</li>
+            <li>Las diez lecturas del Cor?n</li>
+            <li>Memorizaci?n del Cor?n</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contacto</h2>
+        <p>Email: <a href="mailto:info@quranacademy.com">info@quranacademy.com</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Todos los derechos reservados - Academia del Cor?n en l?nea</p>
+    </footer>
+</body>
+</html>

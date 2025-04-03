@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Impara il Corano, il Tajweed e le dieci letture con la nostra Accademia online.">
+    <title>Accademia del Corano online</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Accademia del Corano online</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Chi siamo</a></li>
+                <li><a href="#courses">Corsi</a></li>
+                <li><a href="#contact">Contatti</a></li>
+                <li><a href="index.html">ÇáÚÑÈíÉ</a></li>
+                <li><a href="index-en.html">English</a></li>
+                <li><a href="index-fr.html">Français</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>Chi siamo</h2>
+        <p>Offriamo corsi online per imparare il Corano, il Tajweed e le dieci letture.</p>
+    </section>
+
+    <section id="courses">
+        <h2>I nostri corsi</h2>
+        <ul>
+            <li>Corso base di Tajweed</li>
+            <li>Le dieci letture del Corano</li>
+            <li>Memorizzazione del Corano</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contatti</h2>
+        <p>Email: <a href="mailto:info@quranacademy.com">info@quranacademy.com</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Tutti i diritti riservati - Accademia del Corano online</p>
+    </footer>
+</body>
+</html>

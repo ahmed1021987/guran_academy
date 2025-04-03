@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content=" Џбг «бё—¬д «бя—нг ж«б ћжнѕ ж«бё—«Ѕ«  «бЏ‘— гЏ √я«ѕнгн…  Џбнг «бё—¬д «бя—нг √ждб«нд.">
+    <meta name="keywords" content=" Џбнг «бё—¬д, «б ћжнѕ, «бё—«Ѕ«  «бЏ‘—, Quran Academy">
+    <meta name="author" content="«я«ѕнгн…  Џбнг «бё—¬д «бя—нг «ждб«нд">
+    <meta name="robots" content="index, follow">
+    <title>«я«ѕнгн…  Џбнг «бё—¬д «бя—нг «ждб«нд</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>√я«ѕнгн…  Џбнг «бё—¬д «бя—нг √ждб«нд</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">гд дЌд</a></li>
+                <li><a href="#courses">«бѕж—« </a></li>
+                <li><a href="#contact"> ж«’б гЏд«</a></li>
+                <li><a href="index-en.html">English</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>гд дЌд</h2>
+        <p>дёѕг ѕж—«  б Џбнг «бё—¬д «бя—нг ж«б ћжнѕ ж«бё—«Ѕ«  «бЏ‘— Џ»— «б≈д —д .</p>
+    </section>
+
+    <section id="courses">
+        <h2>ѕж—« д«</h2>
+        <ul>
+            <li> Џбнг «б ћжнѕ ббг» ѕ∆нд</li>
+            <li>ѕж—… «бё—«Ѕ«  «бЏ‘—</li>
+            <li>ЌЁў «бё—¬д «бя—нг</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2> ж«’б гЏд«</h2>
+        <p>нгядя «б ж«’б гЏд« Џ»— «б»—нѕ «б≈бя —ждн: <a href="mailto:info@quranacademy.com">info@quranacademy.com</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 ћгнЏ «бЌёжё гЌЁжў… - √я«ѕнгн…  Џбнг «бё—¬д «бя—нг √ждб«нд</p>
+    </footer>
+</body>
+</html>
